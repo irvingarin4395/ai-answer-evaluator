@@ -1,0 +1,58 @@
+{
+  "history": [
+    {
+      "id": 1777359976096,
+      "question": "Explain supply and demand.",
+      "answer": "When demand increases prices go up. When supply increases prices go down.",
+      "score": 71,
+      "feedback": "Good understanding, but the explanation can be more detailed.",
+      "suggested": "Add real-world examples to strengthen the answer.",
+      "date": "3:06:16 PM"
+    },
+    {
+      "id": 1777359359760,
+      "question": "What is GDP and why is it important?",
+      "answer": "GDP measures the total value of goods and services produced in a country. It is important because it shows how well the economy is performing.",
+      "score": 93,
+      "feedback": "Good understanding, but the explanation can be more detailed.",
+      "suggested": "Add real-world examples to strengthen the answer.",
+      "date": "2:55:59 PM"
+    },
+    {
+      "id": 1777359350220,
+      "question": "What is inflation?",
+      "answer": "Inflation is when prices go up.",
+      "score": 81,
+      "feedback": "Good understanding, but the explanation can be more detailed.",
+      "suggested": "Add real-world examples to strengthen the answer.",
+      "date": "2:55:50 PM"
+    },
+    {
+      "id": 1777359330114,
+      "question": "Explain the relationship between supply and demand in economics.",
+      "answer": "Supply and demand determine the price of goods in a market. When demand increases while supply remains constant, prices tend to rise. Conversely, when supply increases and demand remains constant, prices tend to fall.",
+      "score": 90,
+      "feedback": "Good understanding, but the explanation can be more detailed.",
+      "suggested": "Add real-world examples to strengthen the answer.",
+      "date": "2:55:30 PM"
+    },
+    {
+      "id": 1777359141781,
+      "question": "Explain the relationship between supply and demand.",
+      "answer": "Supply and demand determine price. When demand increases, prices rise. When supply increases, prices fall.",
+      "score": 68,
+      "feedback": "Good understanding, but the explanation can be more detailed.",
+      "suggested": "Add real-world examples to strengthen the answer.",
+      "date": "2:52:21 PM"
+    },
+    {
+      "id": 1777359062266,
+      "question": "Explain the relationship between supply and demand.",
+      "answer": "Supply and demand determine price. When demand increases, prices rise. When supply increases, prices fall.",
+      "score": 67,
+      "feedback": "Good understanding, but the explanation can be more detailed.",
+      "suggested": "Add real-world examples to strengthen the answer.",
+      "date": "2:51:02 PM"
+    }
+  ]
+}
